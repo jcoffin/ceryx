@@ -1,0 +1,19 @@
+{
+  "name": "ceryx",
+  "version": "1.0.0",
+  "description": "Ceryx is a simple WebSocket server that forwards Redis messages to the client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoffin/ceryx.git"
+  },
+  "author": "Jason Coffin <jason@jasoncoffin.com> (http://www.jasoncoffin.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcoffin/ceryx/issues"
+  },
+  "homepage": "https://github.com/jcoffin/ceryx#readme"
+}
